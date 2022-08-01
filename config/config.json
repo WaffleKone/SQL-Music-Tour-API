@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "goblinz20",
+    "database": "music_tour",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "goblinz20",
+    "database": "music_tour",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "ropostgresot",
+    "password": "goblinz20",
+    "database": "music_tour",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
